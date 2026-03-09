@@ -4,7 +4,7 @@
 
 **Backend Engineer · AI Enthusiast · Builder**
 
-*Based in the UK — shipping code and solving real problems*
+*Masters student at the University of Edinburgh — shipping code between lectures*
 
 </div>
 
@@ -12,9 +12,8 @@
 
 ## 🚀 What I'm up to
 
-- 🎓 CS student — deep in databases, text tech & distributed systems
-- 🤖 Building AI-powered apps — book recommenders, network intrusion detection
-- 🔧 Primarily working with **C# · .NET · Python · Java**
+- 🎓 MSc @ **University of Edinburgh** — researching **GPU Serverless Inference with LLMs** for my dissertation
+- 🔧 Primarily working with **C# · .NET · Python · Java · TypeScript**
 - 🏗️ Fascinated by **microservices**, clean APIs & scalable backends
 
 ---
@@ -33,21 +32,28 @@
 **Stack:** `TypeScript` `Next.js` `PostgreSQL` `Google Gemini AI` `Vercel`
 
 [![Live App](https://img.shields.io/badge/Live-aible--mvp.vercel.app-00C7B7?style=flat&logo=vercel&logoColor=white)](https://aible-mvp.vercel.app)
-[![Repo](https://img.shields.io/badge/GitHub-aible--mvp-181717?style=flat&logo=github&logoColor=white)](https://github.com/22KarthikV/aible-mvp)
+![Private Repo](https://img.shields.io/badge/Repo-Private-red?style=flat&logo=github&logoColor=white)
 
 ---
 
 ## 🛠️ Tech Stack
 
-`C#` `ASP.NET Core` `Python` `Java` `TypeScript` `SQL` `Machine Learning` `REST APIs`
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat&logo=pytorch&logoColor=white)
 
 ---
 
 ## 💡 What drives me
 
-> Smart systems. Clean architecture. Real-world impact.
+> I genuinely can't stop asking "but what if we made it smarter?" — it's a problem.
 
-From healthcare platforms to banking apps to AI tools — I build software that actually matters.
+I get unreasonably excited about systems that *think*, APIs that *actually make sense*, and codebases clean enough to eat off. Whether it's making a fridge less wasteful or making GPUs more serverless — if it's a hard problem, I'm probably already Googling it at 2am.
 
 ---
 
