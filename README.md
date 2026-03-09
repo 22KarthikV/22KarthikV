@@ -2,7 +2,7 @@
 
 # Hey, I'm Karthik 👋
 
-**Backend Engineer · AI Enthusiast · Builder**
+**Fullstack Engineer · AI Enthusiast · Builder**
 
 *Masters student at the University of Edinburgh — shipping code between lectures*
 
