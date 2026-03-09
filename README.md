@@ -1,16 +1,39 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**22KarthikV/22KarthikV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey, I'm Karthik 👋
 
-Here are some ideas to get you started:
+**Backend Engineer · AI Enthusiast · Builder**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*Based in the UK — shipping code and solving real problems*
+
+</div>
+
+---
+
+## 🚀 What I'm up to
+
+- 🎓 CS student — deep in databases, text tech & distributed systems
+- 🤖 Building AI-powered apps — book recommenders, network intrusion detection
+- 🔧 Primarily working with **C# · .NET · Python · Java**
+- 🏗️ Fascinated by **microservices**, clean APIs & scalable backends
+
+---
+
+## 🛠️ Tech Stack
+
+`C#` `ASP.NET Core` `Python` `Java` `SQL` `Machine Learning` `REST APIs`
+
+---
+
+## 💡 What drives me
+
+> Smart systems. Clean architecture. Real-world impact.
+
+From healthcare platforms to banking apps to AI tools — I build software that actually matters.
+
+---
+
+## 📬 Let's connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-22karthikv-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/22karthikv)
+[![GitHub](https://img.shields.io/badge/GitHub-22KarthikV-181717?style=flat&logo=github&logoColor=white)](https://github.com/22KarthikV)
