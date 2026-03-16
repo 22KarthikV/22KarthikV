@@ -21,7 +21,7 @@
 ## 🏆 Recent Wins
 
 **🥉 3rd Place @ AI Engine Hackathon (Mar 2026)** — *Edinburgh*  
-Built a working AI product in **5 hours** competing against 56 teams. Sponsored by **JetBrains**, **Anthropic**, **OpenAI** & **Tomorrow.io**.
+Built a working AI product in **5 hours** competing against 56 teams. Sponsored by **JetBrains**, **Anthropic**, **OpenAI** & **Tomoro.ai**.
 
 [![Hackathon Details](https://img.shields.io/badge/Event-AI%20Engine%20Hackathon-FF6B6B?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTYiIGhlaWdodD0iMTYiIHZpZXdCb3g9IjAgMCAxNiAxNiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNOCAxLjVMMTAuMDkgNS42OEwxNC41IDYuMzJMMTEuMjUgOS41TDEyIDEzLjg4TDggMTEuNzdMNCAxMy44OEw0Ljc1IDkuNUwxLjUgNi4zMkw1LjkxIDUuNjhMOCAxLjVaIiBmaWxsPSJ3aGl0ZSIvPjwvc3ZnPg==)](https://aienginehack.com/edinburgh)
 
